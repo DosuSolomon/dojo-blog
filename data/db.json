@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Is the Django Framework Dead?",
+      "body": "I have learnt some JavaScript and Python and I’m planning to learn a backend framework. I don’t know if I should choose a Node.js-based framework or a Django-based framework. I am seeing a lot of Node.js-based frameworks get a lot of hype. Is the Django framework dead now? Nope, it’s not. Django has been selected as the most wanted web development framework in 2021 by StackOverflow Developer Survey, which means it has huge potential to rock 2022. I have a lot of Django developer friends who are doing great as freelance developers or full-time developers.If you want to know whether Django is for you or not, you can use these parameters.",
+      "author": "Sunday",
+      "id": 1
+    },
+    {
+      "title": "My Statement on Ukraine",
+      "body": "Last night, Russia launched a brazen attack on the people of Ukraine, in violation of international law and basic principles of human decency. Russia did so not because Ukraine posed a threat to Russia, but because the people of Ukraine chose a path of sovereignty, self-determination, and democracy. For exercising rights that should be available to all people and nations, Ukrainians now face a brutal onslaught that is killing innocents and displacing untold numbers of men, women, and children.The consequences of Russia’s reckless actions extend beyond Ukraine’s borders. This illegal invasion in the heart of Europe also threatens the foundation of the international order and security. For some time now, we have seen the forces of division and authoritarianism make headway around the world, mounting an assault on the ideals of democracy, rule of law, equality, individual liberty, freedom of expression and worship, and self-determination. Russia’s invasion of Ukraine shows where these dangerous trends can lead — and why they cannot be left unchallenged.People of conscience around the world need to loudly and clearly condemn Russia’s actions and offer support for the Ukrainian people. And every American, regardless of party, should support President Biden’s efforts, in coordination with our closest allies, to impose hard-hitting sanctions on Russia — sanctions that impose a real price on Russia’s autocratic elites. There may be some economic consequences to such sanctions, given Russia’s significant role in world energy markets. But that’s a price we should be willing to pay to take a stand on the side of freedom. For over the long term, we all face a choice, between a world in which might makes right and autocrats are free to impose their will through force, or a world in which free people everywhere have the power to determine their own future. Michelle and I will be praying for the courageous people of Ukraine, for Russian citizens who have bravely declared their opposition to these attacks, and for all those who will bear the cost of a senseless war.",
+      "author": "Dosu",
+      "id": 2
+    },
+    {
+      "title": "hello developers",
+      "body": "I have learnt some JavaScript and Python and I’m planning to learn a back-end framework. I don’t know if I should choose a Node.js-based framework or a Django-based framework. I am seeing a lot of Node.js-based frameworks get a lot of hype. Is the Django framework dead now? Nope, it’s not. Django has been selected as the most wanted web development framework in 2021 by StackOverflow Developer Survey, which means it has huge potential to rock 2022. I have a lot of Django developer friends who are doing great as freelance developers or full-time developers.If you want to know whether Django is for you or not, you can use these parameters,\n",
+      "author": "Sunday",
+      "id": 9
+    },
+    {
+      "title": "hello ninja",
+      "body": "      \"body\": \"I have learnt some JavaScript and Python and I’m planning to learn a backend framework. I don’t know if I should choose a Node.js-based framework or a Django-based framework. I am seeing a lot of Node.js-based frameworks get a lot of hype. Is the Django framework dead now? Nope, it’s not. Django has been selected as the most wanted web development framework in 2021 by StackOverflow Developer Survey, which means it has huge potential to rock 2022. I have a lot of Django developer friends who are doing great as freelance developers or full-time developers.If you want to know whether Django is for you or not, you can use these parameters.\",\n",
+      "author": "Dosu",
+      "id": 10
+    }
+  ]
+}
